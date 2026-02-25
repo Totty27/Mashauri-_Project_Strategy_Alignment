@@ -1,5 +1,18 @@
 # Mashauri_Project_Strategy_Alignment
 
+## Table of Contents
+- [Company Background](#company-background)
+- [Problem Statement](#problem-statement)
+- [Project Overview and Objectives](#project-overview-and-objectives)
+- [Data Sources](#data-sources)
+- [Analysis Tools and Techniques](#analysis-tools-and-techniques)
+- [Data Cleaning or Preparation](#data-cleaning-or-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ## Company Background 
 
 Mashauri is a UK-based digital platform that supports universities, students and small, upcoming business entrepreneures in launching ventures through structured acceleration programs. Its goal is to embed entrepreneurial learning within academic ecosystems globally. As it expands into emerging markets, including Africa, Mashauri must refine its offerings, improve learner outcomes, and optimize partnerships with universities.
@@ -8,7 +21,7 @@ Mashauri is a UK-based digital platform that supports universities, students and
 
 Mashauri have assigned me as a Business Analyst to support their expansion into South Africa and other similar emerging education ecosystems, using public information, competitor insights, and simulated scenarios.
 
-## Project Overview & Objectives
+## Project Overview and Objectives
 
 The goal of this project is to assess Mashauri's business Model, process design, performance frameworks, and finally recommend improvements for scaling impact sustainably in regions like Southern Africa.
 
@@ -31,7 +44,7 @@ This will be achieved by completing the following objectives:
 - Textbook:
    - BABOK Guide – IIBA
 
-## Tools & Techniques
+## Analysis Tools and Techniques
 
 - Microsoft Excel
 - Creately platform for modelling the following:
@@ -42,6 +55,18 @@ This will be achieved by completing the following objectives:
    - BPMN/ Swimlane diagram
    - Fishbone or Ishakawa Diagrams
    - 5 WHYs 
+## Data Cleaning or Preparation
+
+## Exploratory Data Analysis
+
+## Data Analysis
+
+## Findings
+
+## Recommendations
+
+## Limitations
+
 
 
 
