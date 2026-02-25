@@ -1,4 +1,4 @@
-# Mashauri_Project_Strategy_Alignment
+# Mashauri_Project-Expansion_Strategy_Alignment
 
 ## Table of Contents
 - [Company Background](#company-background)
