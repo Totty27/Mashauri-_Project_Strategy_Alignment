@@ -8,13 +8,25 @@ Mashauri is a UK-based digital platform that supports universities, students and
 
 Mashauri have assigned me as a Business Analyst to support their expansion into South Africa and other similar emerging education ecosystems, using public information, competitor insights, and simulated scenarios.
 
-## Project Overview/ Goals
+## Project Overview & Objectives
 
 The goal of this project is to assess Mashauri's business Model, process design, performance frameworks, and finally recommend improvements for scaling impact sustainably in regions like Southern Africa.
 
+This will be achieved by completing the following objectives:
+
+- Identifying strategic pathways for global expansion and localization, particulary in emerging education and entrepreneurial ecosystems.
+- Refine the current virtual accelleration model by incorporating insights from global best practices and region-specific needs.
+- Improve user engagement and platform adoption by evaluating customer journeys and operational angagement.
+- Develop a strategic roadmap that positions Mashauri as a globally recognized, scalable, and inclusive virtual accelerator platform.
+
 ## Data Sources
 
+- Confidential company documentation.
+- Mashauri Website at https://www.mashauri.org/
+- Google search for various African and global platforms such as https://www.capacitate.co.za/, https://chomee.online/ and https://www.coursera.org/learn/machine-learning-python-build-optimize?authMode=login
+- Textbook: BABOK Guide – IIBA
 
 ## Tools & Techniques
+
 
 
