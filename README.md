@@ -22,11 +22,27 @@ This will be achieved by completing the following objectives:
 ## Data Sources
 
 - Confidential company documentation.
-- Mashauri Website at https://www.mashauri.org/
-- Google search for various African and global platforms such as https://www.capacitate.co.za/, https://chomee.online/ and https://www.coursera.org/learn/machine-learning-python-build-optimize?authMode=login
-- Textbook: BABOK Guide – IIBA
+- Mashauri Website at:
+   - https://www.mashauri.org/
+- Google search for various African and global platforms such as:
+   - https://www.capacitate.co.za/
+   - https://chomee.online/
+   - https://www.coursera.org/learn/machine-learning-python-build-optimize?authMode=login
+- Textbook:
+   - BABOK Guide – IIBA
 
 ## Tools & Techniques
+
+- Microsoft Excel
+- Creately platform for modelling the following:
+   - Business Model Canvas(BMC)
+   - Stakeholder matrix analysis model - Power/ Interest Matrices
+   - Empathy Maps diagrams
+   - Stakeholder or User Personas
+   - BPMN/ Swimlane diagram
+   - Fishbone or Ishakawa Diagrams
+   - 5 WHYs 
+
 
 
 
