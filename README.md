@@ -81,7 +81,7 @@ Initial/Early Phase Analysis
    - Position recommendations for use by leadership teams and potential university partners.
   
 2. Visual 6–12 Month Implementation Roadmap - Raodmap to carry out a project for a successful strategy implementation and alignment.
-   - [Project Roadmap - Strategy Implementation](Project Roadmap-Mashauri.pdf)
+   - [Project Roadmap - Strategy Implementation](ProjectRoadmap-Mashauri.pdf)
 
 
 
