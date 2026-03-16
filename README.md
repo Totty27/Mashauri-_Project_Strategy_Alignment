@@ -6,8 +6,6 @@
 - [Project Overview and Objectives](#project-overview-and-objectives)
 - [Data Sources](#data-sources)
 - [Analysis Tools and Techniques](#analysis-tools-and-techniques)
-- [Data Cleaning or Preparation](#data-cleaning-or-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
@@ -55,12 +53,17 @@ This will be achieved by completing the following objectives:
    - BPMN/ Swimlane diagram
    - Fishbone or Ishakawa Diagrams
    - 5 WHYs 
-## Data Cleaning or Preparation
-
-## Exploratory Data Analysis
 
 ## Data Analysis
-
+Initial/Early Phase Analysis
+1. Business Analysis - refer to the file tittled "Business Canvas Model - Mashauri JPEG".
+   - [Business Model Canvas](bmc.jpeg)
+2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
+   - [Stakeholder Empathy Mapping](stakeholderempathymap.pdf)
+   - [Power/Interest Matrices](Power/Interest.pdf)
+3. Student journey modelling analysis - when students interact with the Mashauri online platform.
+   - [Stakeholder Personas](Personas.pdf)
+   - [BPMN Process Model](Power/Interest.pdf)
 ## Findings
 
 ## Recommendations
