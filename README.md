@@ -61,9 +61,12 @@ Initial/Early Phase Analysis
 2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
    - [Stakeholder Empathy Mapping](stakeholderempathymap.pdf)
    - [Power/Interest Matrices](Power/Interest.pdf)
-3. Student journey modelling analysis - when students interact with the Mashauri online platform.
+3. Student Journey Modelling Analysis - when students interact with the Mashauri online platform.
    - [Stakeholder Personas](Personas.pdf)
    - [BPMN Process Model](Power/Interest.pdf)
+4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
+   - [BPMN Process Model](Power/Interest.pdf)
+   
 ## Findings
 
 ## Recommendations
