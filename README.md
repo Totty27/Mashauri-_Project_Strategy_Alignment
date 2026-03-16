@@ -7,9 +7,8 @@
 - [Data Sources](#data-sources)
 - [Analysis Tools and Techniques](#analysis-tools-and-techniques)
 - [Data Analysis](#data-analysis)
-- [Findings](#findings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
+- [Findings Recommendations And Limitations](#findingsrecommendationsandlimitations)
+
 
 ## Company Background 
 
@@ -67,11 +66,8 @@ Initial/Early Phase Analysis
 4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
    - [BPMN Process Model](Power/Interest.pdf)
    
-## Findings
+## Findings,Recommendations And Limitations
 
-## Recommendations
-
-## Limitations
 
 
 
