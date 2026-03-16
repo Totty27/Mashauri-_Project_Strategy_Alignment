@@ -64,7 +64,10 @@ Initial/Early Phase Analysis
    - [Stakeholder Personas](Personas.pdf)
    - [BPMN Process Model](Power/Interest.pdf)
 4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
-   - [BPMN Process Model](Power/Interest.pdf)
+   - [KPI Dashboard](KPI.png)
+5. Issue Analysis - Gap Analysis
+   - [Route-Cause Analysis - Fishbone](Fishbone.pdf)
+   - [5 WHYs Analysis](5WHYs.pdf)
    
 ## Findings,Recommendations And Limitations
 
