@@ -1,6 +1,6 @@
 # Mashauri_Project-Expansion_Strategy_Alignment
 
-## Table of Contents
+## 1. Table of Contents
 - [Company Background](#company-background)
 - [Problem Statement](#problem-statement)
 - [Project Overview and Objectives](#project-overview-and-objectives)
@@ -10,15 +10,15 @@
 - [Findings Recommendations And Limitations](#findingsrecommendationsandlimitations)
 
 
-## Company Background 
+## 2. Company Background 
 
 Mashauri is a UK-based digital platform that supports universities, students and small, upcoming business entrepreneures in launching ventures through structured acceleration programs. Its goal is to embed entrepreneurial learning within academic ecosystems globally. As it expands into emerging markets, including Africa, Mashauri must refine its offerings, improve learner outcomes, and optimize partnerships with universities.
 
-## Problem Statement
+## 3. Problem Statement
 
 Mashauri have assigned me as a Business Analyst to support their expansion into South Africa and other similar emerging education ecosystems, using public information, competitor insights, and simulated scenarios.
 
-## Project Overview and Objectives
+## 4. Project Overview and Objectives
 
 The goal of this project is to assess Mashauri's business Model, process design, performance frameworks, and finally recommend improvements for scaling impact sustainably in regions like Southern Africa.
 
@@ -29,7 +29,7 @@ This will be achieved by completing the following objectives:
 - Improve user engagement and platform adoption by evaluating customer journeys and operational angagement.
 - Develop a strategic roadmap that positions Mashauri as a globally recognized, scalable, and inclusive virtual accelerator platform.
 
-## Data Sources
+## 5. Data Sources
 
 - Confidential company documentation.
 - Mashauri Website at:
@@ -41,7 +41,7 @@ This will be achieved by completing the following objectives:
 - Textbook:
    - BABOK Guide – IIBA
 
-## Analysis Tools and Techniques
+## 6. Analysis Tools and Techniques
 
 - Microsoft Excel
 - Creately platform for modelling the following:
@@ -53,24 +53,24 @@ This will be achieved by completing the following objectives:
    - Fishbone or Ishakawa Diagrams
    - 5 WHYs 
 
-## Data Analysis
+## 7. Data Analysis
 Initial/Early Phase Analysis
-1. Business Analysis - refer to the file tittled "Business Canvas Model - Mashauri JPEG".
+7.1. Business Analysis - refer to the file tittled "Business Canvas Model - Mashauri JPEG".
    - [Business Model Canvas](bmc.jpeg)
-2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
+7.2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
    - [Stakeholder Empathy Mapping](stakeholderempathymap.pdf)
    - [Power/Interest Matrices](Power/Interest.pdf)
-3. Student Journey Modelling Analysis - when students interact with the Mashauri online platform.
+7.3. Student Journey Modelling Analysis - when students interact with the Mashauri online platform.
    - [Stakeholder Personas](Personas.pdf)
    - [BPMN Process Model](Power/Interest.pdf)
-4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
+7.4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
    - [KPI Dashboard](KPI.png)
-5. Issue Analysis - Gap Analysis
+7.5. Issue Analysis - Gap Analysis
    - [Route-Cause Analysis - Fishbone](Fishbone.pdf)
    - [5 WHYs Analysis](5WHYs.pdf)
    
-## Findings,Recommendations And Limitations
-1. Strategy Implementation Report(Presentation) - Mashauri's expansion strategy into South Africa's emerging education ecosystems.
+## 8. Findings,Recommendations And Limitations
+8.1. Strategy Implementation Report(Presentation) - Mashauri's expansion strategy into South Africa's emerging education ecosystems.
    - [Strategy Implementation Report](Strategyreport.pdf)
    The contents of this report include the following sections:
    - Executive Summary.
@@ -80,7 +80,7 @@ Initial/Early Phase Analysis
    - Strategic Recommendations.
    - Position recommendations for use by leadership teams and potential university partners.
   
-2. Visual 6–12 Month Implementation Roadmap - Raodmap to carry out a project for a successful strategy implementation and alignment.
+8.2. Visual 6–12 Month Implementation Roadmap - Raodmap to carry out a project for a successful strategy implementation and alignment.
    - [Project Roadmap - Strategy Implementation](ProjectRoadmap-Mashauri.pdf)
 
 
