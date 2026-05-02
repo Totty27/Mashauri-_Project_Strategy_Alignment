@@ -55,17 +55,17 @@ This will be achieved by completing the following objectives:
 
 ## 7. Data Analysis
 Initial/Early Phase Analysis
-7.1. Business Analysis - refer to the file tittled "Business Canvas Model - Mashauri JPEG".
+#### 7.1. Business Analysis - refer to the file tittled "Business Canvas Model - Mashauri JPEG".
    - [Business Model Canvas](bmc.jpeg)
-7.2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
+#### 7.2. Stakeholder Analysis and Business Alignment - Refer to the file tittled "1-Power/Interest Metrices.pdf" and "Mashauri Stakeholder Empathy Mapping.pdf."
    - [Stakeholder Empathy Mapping](stakeholderempathymap.pdf)
    - [Power/Interest Matrices](Power/Interest.pdf)
-7.3. Student Journey Modelling Analysis - when students interact with the Mashauri online platform.
+#### 7.3. Student Journey Modelling Analysis - when students interact with the Mashauri online platform.
    - [Stakeholder Personas](Personas.pdf)
    - [BPMN Process Model](Power/Interest.pdf)
-7.4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
+#### 7.4. Gap Analysis & Performance Framework Using Hypothetical KPIs.
    - [KPI Dashboard](KPI.png)
-7.5. Issue Analysis - Gap Analysis
+#### 7.5. Issue Analysis - Gap Analysis
    - [Route-Cause Analysis - Fishbone](Fishbone.pdf)
    - [5 WHYs Analysis](5WHYs.pdf)
    
